@@ -1,2 +1,2 @@
 # REST-API-Practices
-just practice
+Australia Weather API design
